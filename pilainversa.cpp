@@ -87,8 +87,8 @@ void menu()
     printf(" 2. DESAPILAR                             \n");
     printf(" 3. MOSTRAR PILA                          \n");
     printf(" 4. DESTRUIR PILA                         \n");
-    printf(" 5. SALIR                                 \n");
- 
+    printf(" 5. VER PILA INVERSA                      \n");
+    printf(" 6. SALIR                                 \n");
     printf("\n INGRESE OPCION: ");
 }
  
